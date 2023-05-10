@@ -1,6 +1,5 @@
 # bsides-algiers-2023-flagshop
-Writeup for the flag shop challenge in the web 
-category from bsides algiers CTF
+Writeup for the flag shop challenge in the web category from bsides algiers CTF
 # info about the challenge
 - Description: They got some fancy flags out there, but that one really takes time to get.
 - Solves: 7
